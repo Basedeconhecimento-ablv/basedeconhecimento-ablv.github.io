@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://basedeconhecimento-ablv.github.io/gac-cetesb/sitemap.xml
